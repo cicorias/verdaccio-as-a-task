@@ -1,0 +1,1 @@
+C:\g\verdaccio\node_modules\.bin\node.cmd c:\g\verdaccio\node_modules\verdaccio\build\lib\cli.js -c c:\g\verdaccio\config.yaml
