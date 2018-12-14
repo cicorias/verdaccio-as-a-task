@@ -57,7 +57,7 @@ middlewares:
 
 # log settings
 logs:
-  #- {type: stdout, format: pretty, level: http}
+  - {type: stdout, format: pretty, level: http}
   #- {type: file, path: verdaccio.log, level: info}
-  - {type: rotating-file, format: json, path: ./verdaccio.log.json, level: info, options: {period: 1h}}
+  #- {type: rotating-file, format: json, path: ./verdaccio.log.json, level: info, options: {period: 1h}}
 
